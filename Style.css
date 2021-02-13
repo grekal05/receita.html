@@ -1,0 +1,61 @@
+img{
+width: 883px;
+height: 479px;
+
+}
+
+ #stro{
+
+  height: 89px;
+  line-height: 79px;
+  color: #ffb300;
+  font-weight: black;
+
+}
+.autora{
+
+    color: black;
+    height: 21px;
+    font-weight: bold;
+    text-align: right;
+    text-transform: uppercase;
+    
+
+}
+.sp{
+    height: 21px;
+  font-weight: 300;
+  line-height: 1.61;
+  color: black;
+
+
+}
+.pre{
+
+    line-height: 34px;
+     border-bottom: black ;
+}
+h2{
+ 
+    height: 34px;
+    color: #ffb300;
+    font-weight: bold;
+}
+ul ol li{
+
+    height: 21px;
+font-weight: 400;
+line-height: 21px * 1.61 ;
+}
+a {
+    text-transform: uppercase;
+    color:#0037B3 ;
+    font-weight: bold;
+
+}
+
+iframe{
+
+    width: 883px;
+height: 479px;
+}
